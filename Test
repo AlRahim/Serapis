@@ -1,0 +1,3 @@
+from phBot import *
+
+log('[%s] Loaded' % __name__)
